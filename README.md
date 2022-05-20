@@ -61,9 +61,5 @@
     * [HugePages原理与使用](https://github.com/liexusong/linux-source-code-analyze/blob/master/hugepage.md)
     * [HugePages实现剖析](https://github.com/liexusong/linux-source-code-analyze/blob/master/hugepages-source-code-analysis.md)
 
-### 我们的公众号
-
-![qrcode](https://image-static.segmentfault.com/376/558/3765589661-607fef350658b_fix732)
-
 
 
